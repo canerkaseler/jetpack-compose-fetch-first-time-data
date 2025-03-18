@@ -1,4 +1,4 @@
-# Load Initial Data When Screen Opens
+# Load Initial Data When Screen Appears
 
 This repository has a [Medium Article](https://proandroiddev.com/load-initial-data-when-screen-opens-358f77126a08) 📚
 
