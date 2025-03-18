@@ -2,7 +2,7 @@
 
 This repository has a [Medium Article](https://proandroiddev.com/load-initial-data-when-screen-opens-358f77126a08) 📚
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/22f6ea51-e4cb-4251-ad65-631ef6db64df">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/683b3a2f-101f-4db5-be67-6b10d083b2db">
 
 > If you would like to support my work, coffee is my best friend for writing code and articles: https://buymeacoffee.com/canerkaseler ☕️
 >
